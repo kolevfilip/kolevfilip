@@ -1,7 +1,7 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="githubbanner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Filip, a Macedonian Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Software Engineering at Faculty of Computer Science and Engineering in Skopje, Macedonia<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>in progress</i>
+🛜 currently working on my own [webpage]<br>👨🏼‍🎓 studying Software Engineering at Faculty of Computer Science and Engineering FINKI in Skopje, Macedonia<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>in progress</i>
 
 
 # 💻 Tech Stack:
